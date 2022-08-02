@@ -1,0 +1,50 @@
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.AssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.exe.config
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.exe
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.pdb
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.frmMascota.resources
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.exe
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.pdb
+C:\Users\User\Desktop\ABMMascotas\obj\Debug\ABMMascotas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ABMMascotas\obj\Debug\ABMMascotas.frmMascota.resources
+C:\Users\User\Desktop\ABMMascotas\obj\Debug\ABMMascotas.Properties.Resources.resources
+C:\Users\User\Desktop\ABMMascotas\obj\Debug\ABMMascotas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ABMMascotas\obj\Debug\ABMMascotas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ABMMascotas\obj\Debug\ABMMascotas.exe
+C:\Users\User\Desktop\ABMMascotas\obj\Debug\ABMMascotas.pdb
+C:\Users\User\Desktop\ABMMascotas\bin\Debug\ABMMascotas.exe.config
+C:\Users\User\Desktop\ABMMascotas\bin\Debug\ABMMascotas.exe
+C:\Users\User\Desktop\ABMMascotas\bin\Debug\ABMMascotas.pdb
+C:\Users\Usuario\Desktop\MODELO\Mascotas\ABMMascotas\bin\Debug\ABMMascotas.exe.config
+C:\Users\Usuario\Desktop\MODELO\Mascotas\ABMMascotas\bin\Debug\ABMMascotas.exe
+C:\Users\Usuario\Desktop\MODELO\Mascotas\ABMMascotas\bin\Debug\ABMMascotas.pdb
+C:\Users\Usuario\Desktop\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.frmMascota.resources
+C:\Users\Usuario\Desktop\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.exe
+C:\Users\Usuario\Desktop\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.pdb
+C:\Users\Usuario\Desktop\VIKI\MODELO\Mascotas\ABMMascotas\bin\Debug\ABMMascotas.exe.config
+C:\Users\Usuario\Desktop\VIKI\MODELO\Mascotas\ABMMascotas\bin\Debug\ABMMascotas.exe
+C:\Users\Usuario\Desktop\VIKI\MODELO\Mascotas\ABMMascotas\bin\Debug\ABMMascotas.pdb
+C:\Users\Usuario\Desktop\VIKI\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\VIKI\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.frmMascota.resources
+C:\Users\Usuario\Desktop\VIKI\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\VIKI\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\VIKI\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VIKI\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.exe
+C:\Users\Usuario\Desktop\VIKI\MODELO\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.pdb
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\Mascotas\ABMMascotas\bin\Debug\ABMMascotas.exe.config
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\Mascotas\ABMMascotas\bin\Debug\ABMMascotas.exe
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\Mascotas\ABMMascotas\bin\Debug\ABMMascotas.pdb
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.frmMascota.resources
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.exe
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\Mascotas\ABMMascotas\obj\Debug\ABMMascotas.pdb
